@@ -1,0 +1,11 @@
+{
+  "root": true,
+  "extends": ["@nuxt/eslint-config", "prettier"],
+  "rules": {
+    "vue/multi-word-component-names": "off",
+    "vue/no-reserved-component-names": "off",
+    "vue/require-default-prop": "off",
+    "no-console": "warn",
+    "no-debugger": "warn"
+  }
+}
