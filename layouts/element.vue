@@ -375,14 +375,14 @@ async function resolvePages() {
       color: #327bff;
 
       span {
-        color: #327bff;
+        color: #327bff !important;
       }
     }
   }
 
   &:hover {
     span {
-      color: #327bff;
+      color: white;
     }
   }
 }
